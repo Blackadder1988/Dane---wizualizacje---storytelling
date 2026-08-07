@@ -7,9 +7,15 @@ Narzędzie
 Datawrapper
 
 Proces pracy
-Analiza i przygotowanie danych
-Identyfikacja najważniejszych informacji
-Wybór odpowiedniego typu wizualizacji
-Projektowanie wizualizacji
-Budowanie narracji
-Formułowanie najważniejszych wniosków
+
+1 Analiza i przygotowanie danych
+
+2 Identyfikacja najważniejszych informacji
+
+3 Wybór odpowiedniego typu wizualizacji
+
+4 Projektowanie wizualizacji
+
+5 Budowanie narracji
+
+6 Formułowanie najważniejszych wniosków
