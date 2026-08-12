@@ -7,6 +7,6 @@ Projekt poświęcony analizie danych dotyczących Premier League oraz wykorzysta
 Celem projektu jest przejście od surowych danych do wizualnej historii, która pozwala odbiorcy szybko zrozumieć najważniejsze zależności i wnioski.
 
 Narzędzia
-Datawrapper
+Datawrapper,
 Excel
 
