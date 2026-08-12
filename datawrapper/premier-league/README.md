@@ -10,30 +10,3 @@ Narzędzia
 Datawrapper
 Excel
 
-Proces pracy
-
-1 Analiza danych
-
-2 Przygotowanie i uporządkowanie danych
-
-3 Identyfikacja najważniejszych informacji
-
-4 Wybór odpowiedniej formy wizualizacji
-
-5 Przygotowanie wizualizacji
-
-6 Budowanie narracji
-
-7 Formułowanie najważniejszych wniosków
-
-8 Wizualizacja
-
-Wizualizacja zostanie dodana do tego folderu.
-
-Czego się uczę
-data storytelling
-dobór odpowiedniego typu wykresu
-hierarchia informacji
-prezentowanie danych w prosty sposób
-wykorzystanie wizualizacji do opowiadania historii
-formułowanie wniosków na podstawie danych
